@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "aacdecoder_lib.h": "c",
+        "aacenc_lib.h": "c",
+        "fdk_audio.h": "c",
+        "machine_type.h": "c",
+        "genericstds.h": "c"
+    }
+}

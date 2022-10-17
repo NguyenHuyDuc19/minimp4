@@ -1,0 +1,36 @@
+libFDK/src/FDK_matrixCalloc.lo: libFDK/src/FDK_matrixCalloc.cpp \
+ /usr/include/stdc-predef.h libFDK/include/FDK_matrixCalloc.h \
+ libSYS/include/machine_type.h \
+ /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h /usr/include/assert.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/bits/long-double.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ libSYS/include/genericStds.h libSYS/include/machine_type.h
+
+/usr/include/stdc-predef.h:
+
+libFDK/include/FDK_matrixCalloc.h:
+
+libSYS/include/machine_type.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+
+/usr/include/assert.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/bits/long-double.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+libSYS/include/genericStds.h:
+
+libSYS/include/machine_type.h:
